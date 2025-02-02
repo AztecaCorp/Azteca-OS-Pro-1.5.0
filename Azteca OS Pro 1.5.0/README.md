@@ -1,0 +1,1 @@
+os, json, tkinter, PIL, subprocess, pygame, spellchecker, math, datetime, calendar, cv2, wave, pyaudio
